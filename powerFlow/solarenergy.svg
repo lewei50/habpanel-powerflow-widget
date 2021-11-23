@@ -893,7 +893,7 @@
          id="tspan1347"
          x="38.398533"
          y="239.2879"
-         style="font-size:5.64444447px;text-align:center;text-anchor:middle;fill:#c0c0c0;fill-opacity:1;stroke-width:0.26458335">{{house}}</tspan></text>
+         style="font-size:5.64444447px;text-align:center;text-anchor:middle;fill:#c0c0c0;fill-opacity:1;stroke-width:0.26458335">{{house}}W</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333397px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#c0c0c0;fill-opacity:1;stroke:none;stroke-width:0.26458335"
@@ -904,7 +904,7 @@
          id="tspan1347-3"
          x="28.909597"
          y="273.36957"
-         style="font-size:4.23333359px;fill:#c0c0c0;fill-opacity:1;stroke-width:0.26458335">{{p3}}</tspan></text>
+         style="font-size:4.23333359px;fill:#c0c0c0;fill-opacity:1;stroke-width:0.26458335">{{p3_temp}}</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333397px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#c0c0c0;fill-opacity:1;stroke:none;stroke-width:0.26458335"
@@ -915,7 +915,7 @@
          id="tspan1347-3-6"
          x="8.0469236"
          y="251.13461"
-         style="font-size:4.23333359px;fill:#c0c0c0;fill-opacity:1;stroke-width:0.26458335">{{p1}}</tspan></text>
+         style="font-size:4.23333359px;fill:#c0c0c0;fill-opacity:1;stroke-width:0.26458335">{{p1}}W</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333397px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#c0c0c0;fill-opacity:1;stroke:none;stroke-width:0.26458335"
@@ -926,7 +926,7 @@
          id="tspan1347-3-9"
          x="54.343441"
          y="250.34186"
-         style="font-size:4.23333359px;fill:#c0c0c0;fill-opacity:1;stroke-width:0.26458335">{{p2}}</tspan></text>
+         style="font-size:4.23333359px;fill:#c0c0c0;fill-opacity:1;stroke-width:0.26458335">{{p2}}W</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333397px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#c0c0c0;fill-opacity:1;stroke:none;stroke-width:0.26458335"
@@ -937,7 +937,7 @@
          id="tspan1347-3-2"
          x="51.806644"
          y="269.36783"
-         style="font-size:4.23333359px;fill:#c0c0c0;fill-opacity:1;stroke-width:0.26458335">{{p4}}</tspan></text>
+         style="font-size:4.23333359px;fill:#c0c0c0;fill-opacity:1;stroke-width:0.26458335">{{p4}}W</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333397px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#c0c0c0;fill-opacity:1;stroke:none;stroke-width:0.26458335"
@@ -948,6 +948,6 @@
          id="tspan1347-3-0"
          x="7.7298226"
          y="278.72226"
-         style="font-size:4.23333359px;fill:#c0c0c0;fill-opacity:1;stroke-width:0.26458335">{{bat}}</tspan></text>
+         style="font-size:4.23333359px;fill:#c0c0c0;fill-opacity:1;stroke-width:0.26458335">0W</tspan></text>
   </g>
 </svg>
